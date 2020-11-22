@@ -4,12 +4,8 @@ https://momolly1024.github.io/momolly1024/
 
 ```js
 export default {
-  pronouns: 'She' | 'Her',
   country: 'Taiwan',
-  technologies:{
-    backEnd: ['node.js'],
-    frontEnd: ['javascript', 'react.js'],
-    database: ['mongoDB'],
+  technologies:['javascript', 'react.js','mongoDB','node.js','vue.js']
   }
 }
 
