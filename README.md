@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm momolly</h1>
+<h1 align="center">Hi 👋, I'm Molly</h1>
 <h3 align="center">A junior frontend developer from Taiwan</h3>
 
 - 💬 https://momolly1024.github.io/momolly1024/
