@@ -6,9 +6,10 @@
   <img src="https://profile-counter.glitch.me/momolly1024/count.svg" />
 </p>
 
-💬 https://momolly1024.github.io/momolly1024/
+💬  https://momolly1024.github.io/momolly1024/
 
-📫  **momolly1024@gmail.com**
+📫  momolly1024@gmail.com
+
 
 ```js
 ```
