@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Molly</h1>
 <h3 align="center">A junior frontend developer from Taiwan</h3>
 
-- 💬 https://momolly1024.github.io/momolly1024/
-- 📫  **momolly1024@gmail.com**
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/momolly1024/count.svg" />
+</p>
+
+💬 https://momolly1024.github.io/momolly1024/
+
+📫  **momolly1024@gmail.com**
 
 ```js
-export default {
-  country: 'Taiwan',
-  technologies:['javascript', 'react.js','mongoDB','node.js','vue.js']
-  }
-}
-
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momolly1024&theme=prussian&show_icons=true&layout=compact)](https://github.com/momolly1024/github-readme-stats)
