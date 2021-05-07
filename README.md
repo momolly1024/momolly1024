@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Molly</h1>
-<h3 align="center">A junior frontend developer from Taiwan</h3>
+<h3 align="center">A junior front-end developer in Taiwan</h3>
 
 <p align="center"> 
   Visitor count<br>
