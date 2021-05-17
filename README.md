@@ -6,13 +6,14 @@
   <img src="https://profile-counter.glitch.me/momolly1024/count.svg" />
 </p>
 
-💬  https://molly1024.medium.com/
+📜 <a href="https://molly1024.medium.com/" target="_blank">Medium</a>  
 
-📫  momolly1024@gmail.com
+📫  <a href="mailto:momolly1024@gmail.com">Email</a>
+
+📝 <a href="https://www.cakeresume.com/s--mqxkp88wlMbGgK_yXjCHIA--/momolly1024" target="_blank">Resume</a>   
 
 
-```js
-```
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momolly1024&theme=prussian&show_icons=true&layout=compact)](https://github.com/momolly1024/github-readme-stats)
 ![momolly1024's github stats](https://github-readme-stats.vercel.app/api?username=momolly1024&theme=prussian&show_icons=true)
