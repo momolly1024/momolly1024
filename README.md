@@ -17,7 +17,7 @@
 </a>
 
 
-<a href="https://www.cakeresume.com/s--mqxkp88wlMbGgK_yXjCHIA--/momolly1024">
+<a href="https://reurl.cc/ogLrDl">
     <img src="https://img.shields.io/badge/-resume-green?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
   
