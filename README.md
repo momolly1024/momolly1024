@@ -5,6 +5,8 @@
   <img src="https://profile-counter.glitch.me/momolly1024/count.svg" />
 </div>
 
+
+
 <br>
 
 <div align="center"> 
@@ -70,6 +72,12 @@
     <a href="https://www.python.org" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>    
   </p>
+  
+ <br>
+ 
+  <h4>Random Dad style programming joke...</h4>
+  <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
+
 </div>
 
 
