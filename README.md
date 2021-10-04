@@ -35,7 +35,7 @@
 <br>
 
 <div align="center"> 
- <h3 >📝 Last Posts on Medium</h3>
+ <h3 >📝 Latest Posts on Medium</h3>
   <ul>
     <li> <a href="https://molly1024.medium.com/%E5%9C%A8github-profile%E4%BD%BF%E7%94%A8%E5%9C%96%E7%A4%BA%E6%A8%99%E7%B1%A4-use-cute-icon-in-github-profile-by-shields-io-efceb961f393" target="_blank">在github Profile使用圖示標籤。Use Cute Icon in Github Profile by Shields.io .
   </a></li>
