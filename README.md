@@ -37,6 +37,8 @@
 <div align="center"> 
  <h3 >📝 Last Posts on Medium</h3>
   <ul>
+    <li> <a href="https://molly1024.medium.com/%E5%9C%A8github-profile%E4%BD%BF%E7%94%A8%E5%9C%96%E7%A4%BA%E6%A8%99%E7%B1%A4-use-cute-icon-in-github-profile-by-shields-io-efceb961f393" target="_blank">在github Profile使用圖示標籤。Use Cute Icon in Github Profile by Shields.io .
+  </a></li>
     <li> <a href="https://molly1024.medium.com/css%E5%9E%82%E7%9B%B4%E7%BD%AE%E4%B8%AD-%E6%B0%B4%E5%B9%B3%E7%BD%AE%E4%B8%AD-%E6%8C%81%E7%BA%8C%E6%96%B0%E5%A2%9E-675a9e558ec3" target="_blank">
      CSS垂直置中/水平置中（持續新增）
   </a></li>
