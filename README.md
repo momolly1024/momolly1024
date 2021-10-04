@@ -3,8 +3,6 @@
 <div align="center"> 
   <h4>Visitor count</h4>
   <img src="https://profile-counter.glitch.me/momolly1024/count.svg" />
-  <br/>
-  <a href="https://momolly1024.github.io/momolly1024/" target="_blank">My Website</a>
 </div>
 
 
@@ -24,17 +22,51 @@
   <a href="https://reurl.cc/ogLrDl" target="_blank">
       <img src="https://img.shields.io/badge/-resume-green?style=for-the-badge&logo=gitlab&logoColor=white"/>
   </a>
+  
+  <a href="https://momolly1024.github.io/momolly1024/" target="_blank">
+      <img src="https://img.shields.io/badge/My%20Website-blue?style=for-the-badge"/>
+  </a>
+  
+
+  
+  
 </div>
 
 <br>
 
 <div align="center"> 
+ <h3 >📝 Last Posts on Medium</h3>
+  <ul>
+    <li> <a href="https://molly1024.medium.com/css%E5%9E%82%E7%9B%B4%E7%BD%AE%E4%B8%AD-%E6%B0%B4%E5%B9%B3%E7%BD%AE%E4%B8%AD-%E6%8C%81%E7%BA%8C%E6%96%B0%E5%A2%9E-675a9e558ec3" target="_blank">
+     CSS垂直置中/水平置中（持續新增）
+  </a></li>
+     <li> <a href="https://molly1024.medium.com/react%E5%B0%88%E6%A1%88%E4%B8%ADinput%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88%E4%B8%A6%E4%BB%A5base64%E6%AA%A2%E8%A6%96-3f4df797465e">
+     React專案中Input上傳檔案並以base64檢視。
+  </a></li>
+     <li><a href="https://molly1024.medium.com/%E5%9C%A8react%E4%BD%BF%E7%94%A8styled-components-use-styled-components-in-react-b221a696d16b" target="_blank">
+      在React使用styled-components。Use Styled-components in React。
+  </a></li>
+    <li> <a href="https://molly1024.medium.com/react%E6%80%8E%E9%BA%BC%E7%94%A8font-awesome-icon-how-to-use-font-awesome-icon-in-react-project-517971c36c05" target="_blank">
+     React怎麼用Font Awesome Icon？How to Use Font Awesome Icon in React Project?
+  </a></li>
+  </ul>
+ 
+    
+ 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momolly1024&theme=prussian&show_icons=true&layout=compact)](https://github.com/momolly1024/github-readme-stats)
-  ![momolly1024's github stats](https://github-readme-stats.vercel.app/api?username=momolly1024&theme=prussian&show_icons=true)
+  
+  
+  
+  
+</div>
 
 
-  <h3 >Languages and Tools:</h3>
+
+<div align="center"> 
+
+
+
+  <h3 >🔧 Languages and Tools:</h3>
   <p > 
     <a href="https://getbootstrap.com" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -79,7 +111,13 @@
  
   <h4>Random Dad style programming joke...</h4>
   <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
+ <br>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momolly1024&theme=prussian&show_icons=true&layout=compact)](https://github.com/momolly1024/github-readme-stats)
+  ![momolly1024's github stats](https://github-readme-stats.vercel.app/api?username=momolly1024&theme=prussian&show_icons=true)
 
+  
+  
 </div>
 
 
