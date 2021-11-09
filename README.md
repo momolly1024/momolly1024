@@ -5,8 +5,6 @@
   <img src="https://profile-counter.glitch.me/momolly1024/count.svg" />
 </div>
 
-
-
 <br>
 
 <div align="center"> 
@@ -26,17 +24,19 @@
   <a href="https://momolly1024.github.io/momolly1024/" target="_blank">
       <img src="https://img.shields.io/badge/My%20Website-blue?style=for-the-badge"/>
   </a>
-  
 
-  
-  
 </div>
 
 <br>
 
 <div align="center"> 
- <h3 >📝 Latest Posts on Medium</h3>
-  <ul>
+ <h3 >📝 Latest Medium Posts</h3>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+  <!-- <ul>
     <li> <a href="https://molly1024.medium.com/%E6%96%87%E7%AB%A0%E7%9B%AE%E9%8C%84-8a182718a0e9" target="_blank">文章清單 Contents
   </a></li>
     <li> <a href="https://molly1024.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84medium%E6%BC%82%E4%BA%AE%E7%9A%84%E8%B2%BC%E4%B8%8A%E7%A8%8B%E5%BC%8F%E7%A2%BC-how-to-paste-the-prettier-code-in-medium-by-gist-2be386323957" target="_blank">如何在自己的Medium漂亮的貼上程式碼？How to Paste the Prettier Code in Medium by Gist.
@@ -53,22 +53,11 @@
     <li> <a href="https://molly1024.medium.com/css%E5%9E%82%E7%9B%B4%E7%BD%AE%E4%B8%AD-%E6%B0%B4%E5%B9%B3%E7%BD%AE%E4%B8%AD-%E6%8C%81%E7%BA%8C%E6%96%B0%E5%A2%9E-675a9e558ec3" target="_blank">
      CSS垂直置中/水平置中
   </a></li>
-  </ul>
- 
-    
- 
+  </ul> -->
 
-  
-  
-  
-  
 </div>
 
-
-
-<div align="center"> 
-
-
+<div align="center">
 
   <h3 >🔧 Languages and Tools:</h3>
   <p > 
@@ -120,15 +109,4 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momolly1024&theme=prussian&show_icons=true&layout=compact)](https://github.com/momolly1024/github-readme-stats)
   ![momolly1024's github stats](https://github-readme-stats.vercel.app/api?username=momolly1024&theme=prussian&show_icons=true)
 
-  
-  
 </div>
-
-
-
-
-
-
-
-
-
