@@ -42,24 +42,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-  <!-- <ul>
-    <li> <a href="https://molly1024.medium.com/%E6%96%87%E7%AB%A0%E7%9B%AE%E9%8C%84-8a182718a0e9" target="_blank">文章清單 Contents
-  </a></li>
-    <li> <a href="https://molly1024.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84medium%E6%BC%82%E4%BA%AE%E7%9A%84%E8%B2%BC%E4%B8%8A%E7%A8%8B%E5%BC%8F%E7%A2%BC-how-to-paste-the-prettier-code-in-medium-by-gist-2be386323957" target="_blank">如何在自己的Medium漂亮的貼上程式碼？How to Paste the Prettier Code in Medium by Gist.
-  </a></li>
-    <li> <a href="https://molly1024.medium.com/react-%E4%BA%94%E7%A8%AE%E7%8D%B2%E5%8F%96api%E8%B3%87%E6%96%99%E7%9A%84%E6%96%B9%E5%BC%8F-five-ways-of-fetching-data-from-api-f3368a07ed75" target="_blank">
-     React 五種獲取API資料的方式 。Five Ways of Fetching Data from API.
-  </a></li>
-     <li> <a href="https://molly1024.medium.com/react-%E5%A6%82%E4%BD%95%E4%B8%8D%E7%94%A8%E8%BF%B4%E5%9C%88%E6%94%B9%E8%AE%8A%E5%85%A7%E5%B1%A4%E7%89%A9%E4%BB%B6-obj-%E7%9A%84%E5%80%BC-how-to-change-value-in-deep-object-6cb370b626aa">
-     React 如何不用迴圈改變內層物件(Obj)的值。How to Change Value in Deep Object.
-  </a></li>
-     <li><a href="https://molly1024.medium.com/%E5%9C%A8github-profile%E4%BD%BF%E7%94%A8%E5%9C%96%E7%A4%BA%E6%A8%99%E7%B1%A4-use-cute-icon-in-github-profile-by-shields-io-efceb961f393" target="_blank">
-      兩步驟完成在github Profile使用圖示標籤。Use Cute Icon in Github Profile Only 2 Steps by Shields.io .
-  </a></li>
-    <li> <a href="https://molly1024.medium.com/css%E5%9E%82%E7%9B%B4%E7%BD%AE%E4%B8%AD-%E6%B0%B4%E5%B9%B3%E7%BD%AE%E4%B8%AD-%E6%8C%81%E7%BA%8C%E6%96%B0%E5%A2%9E-675a9e558ec3" target="_blank">
-     CSS垂直置中/水平置中
-  </a></li>
-  </ul> -->
+ 
 
 </div>
 
