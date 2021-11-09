@@ -2,7 +2,7 @@ name: Latest blog post
 on:
     schedule:
         # Runs at 9：30pm UTC
-        - cron: "30 21 * * *"
+        - cron: "56 14 * * *"
     workflow_dispatch:
 
 jobs:
