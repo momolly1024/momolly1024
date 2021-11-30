@@ -94,7 +94,7 @@
       <a href="https://heroku.com" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"  alt="heroku" width="40" height="40"/> </a> 
     <a href="https://colab.research.google.com/" target="_blank"> 
-      <img src="img/colab.svg" alt="colab" width="90" height="40"/> </a>
+      <img src="img/colab.svg" alt="colab" width="40" height="40"/> </a>
   </p>
 
   
