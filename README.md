@@ -75,7 +75,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>    
   </p>
   
-  <h3 >Tools:</h3>
+  <h3 >🔧 Tools:</h3>
     <p > 
     <a href="https://code.visualstudio.com/" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a>
