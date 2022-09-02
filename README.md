@@ -1,11 +1,6 @@
 # Helloooo, I'm Molly 👋
 
-- 🔭 I’m currently working on Frontend Technologies
-- 🌱 I’m currently learning Node.js Python 
-- 👯 I’m looking to collaborate on React Projects
-- 📫 How to reach me: momolly1024@gmail.com
-- ⚡ Fun fact: ...
-
+<!-- - 🔭 🌱 👯 📫 ⚡-->
 
 <div > 
   <h4>Visitor count</h4>
