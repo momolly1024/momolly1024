@@ -1,6 +1,4 @@
-<h1 >Helloooo 👋, I'm Molly</h1>
-
-## Hi there, I'm Molly 👋
+# Helloooo, I'm Molly 👋
 
 - 🔭 I’m currently working on Frontend Technologies
 - 🌱 I’m currently learning Node.js Python 
