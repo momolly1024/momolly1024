@@ -38,12 +38,12 @@
  <h3 >📝 Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [React Native 登入登出｜實作 App 基本頁面及底部菜單。](https://molly1024.medium.com/react-native-%E7%99%BB%E5%85%A5%E7%99%BB%E5%87%BA-%E5%AF%A6%E4%BD%9C-app-%E5%9F%BA%E6%9C%AC%E9%A0%81%E9%9D%A2%E5%8F%8A%E5%BA%95%E9%83%A8%E8%8F%9C%E5%96%AE-5c6d54dfbaf8?source=rss-a56684c76423------2)
 - [React Native + Context API｜在 React Native 中使用 useContext！](https://molly1024.medium.com/react-native-context-api-%E5%9C%A8-react-native-%E4%B8%AD%E4%BD%BF%E7%94%A8-usecontext-f7add40f961f?source=rss-a56684c76423------2)
 - [Simplest Way to Learn JavaScript Logical Assignment Operators.](https://molly1024.medium.com/simplest-way-to-learn-javascript-logical-assignment-operators-14ffc01d198b?source=rss-a56684c76423------2)
 - [React Native 接收通知｜在 App 接收通知，使用 Firebase Cloud Messaging 發送及接收。](https://molly1024.medium.com/react-native-%E6%8E%A5%E6%94%B6%E9%80%9A%E7%9F%A5-%E5%9C%A8-app-%E6%8E%A5%E6%94%B6%E9%80%9A%E7%9F%A5-%E4%BD%BF%E7%94%A8-firebase-cloud-messaging-%E7%99%BC%E9%80%81%E5%8F%8A%E6%8E%A5%E6%94%B6-60fd77ee8c72?source=rss-a56684c76423------2)
 - [React Native｜寫 APP 從 Todo List 開始，結合裝置 Async Storage 應用！](https://molly1024.medium.com/react-native-%E5%AF%AB-app-%E5%BE%9E-todo-list-%E9%96%8B%E5%A7%8B-%E7%B5%90%E5%90%88%E8%A3%9D%E7%BD%AE-async-storage-%E6%87%89%E7%94%A8-ebb86e5b7c2e?source=rss-a56684c76423------2)
 - [React Native 從0開始｜環境架設及建立啟動專案！](https://molly1024.medium.com/react-native-%E5%BE%9E0%E9%96%8B%E5%A7%8B-%E7%92%B0%E5%A2%83%E6%9E%B6%E8%A8%AD%E5%8F%8A%E5%BB%BA%E7%AB%8B%E5%95%9F%E5%8B%95%E5%B0%88%E6%A1%88-148eb64096b9?source=rss-a56684c76423------2)
-- [React 實作網站換色功能｜用 styled-components 輕鬆完成！暗黑模式開燈模式一鍵切換。](https://molly1024.medium.com/react-%E5%AF%A6%E4%BD%9C%E7%B6%B2%E7%AB%99%E6%8F%9B%E8%89%B2%E5%8A%9F%E8%83%BD-%E7%94%A8-styled-components-%E8%BC%95%E9%AC%86%E5%AE%8C%E6%88%90-%E6%9A%97%E9%BB%91%E6%A8%A1%E5%BC%8F%E9%96%8B%E7%87%88%E6%A8%A1%E5%BC%8F%E4%B8%80%E9%8D%B5%E5%88%87%E6%8F%9B-a26301ec5425?source=rss-a56684c76423------2)
 <!-- BLOG-POST-LIST:END -->
 
 
