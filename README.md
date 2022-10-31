@@ -38,12 +38,12 @@
  <h3 >📝 Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [在電腦中設定 Git 帳號及 ssh key；多個 Git 帳號又該如何設定?](https://molly1024.medium.com/%E5%9C%A8%E9%9B%BB%E8%85%A6%E4%B8%AD%E8%A8%AD%E5%AE%9A-git-%E5%B8%B3%E8%99%9F%E5%8F%8A-ssh-key-%E5%A4%9A%E5%80%8B-git-%E5%B8%B3%E8%99%9F%E5%8F%88%E8%A9%B2%E5%A6%82%E4%BD%95%E8%A8%AD%E5%AE%9A-71cabc421b17?source=rss-a56684c76423------2)
 - [React Native 菜單｜React Navigation 底部菜單結合堆疊菜單的作法。Code for Integrating StackNavigator into…](https://molly1024.medium.com/react-native-%E8%8F%9C%E5%96%AE-react-navigation-%E5%BA%95%E9%83%A8%E8%8F%9C%E5%96%AE%E7%B5%90%E5%90%88%E5%A0%86%E7%96%8A%E8%8F%9C%E5%96%AE%E7%9A%84%E4%BD%9C%E6%B3%95-code-for-integrating-stacknavigator-into-a6dafcd80831?source=rss-a56684c76423------2)
 - [React prop-types｜套件 prop-types 使用方式及應用情境。](https://molly1024.medium.com/react-prop-types-%E5%A5%97%E4%BB%B6-prop-types-%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F%E5%8F%8A%E6%87%89%E7%94%A8%E6%83%85%E5%A2%83-fd162ea75cc5?source=rss-a56684c76423------2)
 - [React Native 登入登出｜實作 App 基本頁面及底部菜單。](https://molly1024.medium.com/react-native-%E7%99%BB%E5%85%A5%E7%99%BB%E5%87%BA-%E5%AF%A6%E4%BD%9C-app-%E5%9F%BA%E6%9C%AC%E9%A0%81%E9%9D%A2%E5%8F%8A%E5%BA%95%E9%83%A8%E8%8F%9C%E5%96%AE-5c6d54dfbaf8?source=rss-a56684c76423------2)
 - [React Native + Context API｜在 React Native 中使用 useContext！](https://molly1024.medium.com/react-native-context-api-%E5%9C%A8-react-native-%E4%B8%AD%E4%BD%BF%E7%94%A8-usecontext-f7add40f961f?source=rss-a56684c76423------2)
 - [Simplest Way to Learn JavaScript Logical Assignment Operators.](https://molly1024.medium.com/simplest-way-to-learn-javascript-logical-assignment-operators-14ffc01d198b?source=rss-a56684c76423------2)
-- [React Native 接收通知｜在 App 接收通知，使用 Firebase Cloud Messaging 發送及接收。](https://molly1024.medium.com/react-native-%E6%8E%A5%E6%94%B6%E9%80%9A%E7%9F%A5-%E5%9C%A8-app-%E6%8E%A5%E6%94%B6%E9%80%9A%E7%9F%A5-%E4%BD%BF%E7%94%A8-firebase-cloud-messaging-%E7%99%BC%E9%80%81%E5%8F%8A%E6%8E%A5%E6%94%B6-60fd77ee8c72?source=rss-a56684c76423------2)
 <!-- BLOG-POST-LIST:END -->
 
 
