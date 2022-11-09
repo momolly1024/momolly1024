@@ -1,13 +1,5 @@
 # Helloooo, I'm Molly 👋
 
-<!-- - 🔭 🌱 👯 📫 ⚡-->
-
-<div > 
-  <h4>Visitor count</h4>
-  <img src="https://profile-counter.glitch.me/momolly1024/count.svg" />
-</div>
-
-<br>
 
 
 ### Connect with me
@@ -33,6 +25,7 @@
 </div>
 
 <br>
+
 
 <div> 
  <h3 >📝 Latest Medium Posts</h3>
@@ -122,7 +115,13 @@
 
 
 
+ 
+<div > 
+  <h4>Visitor count</h4>
+  <img src="https://profile-counter.glitch.me/momolly1024/count.svg" />
+</div>
 
+<br>
 
 
 
