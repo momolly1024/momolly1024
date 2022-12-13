@@ -14,9 +14,9 @@
       <img src="https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://reurl.cc/ogLrDl" target="_blank">
+<!--   <a href="https://reurl.cc/ogLrDl" target="_blank">
       <img src="https://img.shields.io/badge/-resume-green?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  </a>
+  </a> -->
   
   <a href="https://momolly1024.github.io/momolly1024/" target="_blank">
       <img src="https://img.shields.io/badge/My%20Website-blue?style=for-the-badge"/>
