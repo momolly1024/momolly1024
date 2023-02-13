@@ -5,10 +5,7 @@
 ### Connect with me
 
 <div > 
- 
-  <a href="https://molly1024.medium.com/" target="_blank">
-      <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+
     
   <a href="mailto:momolly1024@gmail.com">
       <img src="https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -18,11 +15,17 @@
       <img src="https://img.shields.io/badge/-resume-green?style=for-the-badge&logo=gitlab&logoColor=white"/>
   </a> -->
   
-  <a href="https://momolly1024.github.io/momolly1024/" target="_blank">
+<!--    <a href="https://momolly1024.github.io/momolly1024/" target="_blank">
       <img src="https://img.shields.io/badge/My%20Website-blue?style=for-the-badge"/>
-  </a>
+  </a> -->
 
 </div>
+
+### Blog
+ 
+  <a href="https://molly1024.medium.com/" target="_blank">
+      <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 
 <br>
 
