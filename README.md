@@ -107,16 +107,6 @@
  <br>
   
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momolly1024&theme=dark&layout=compact)
-  
-![Molly's GitHub stats](https://github-readme-stats.vercel.app/api?username=momolly1024&count_private=true&show_icons=true&theme=dark)
-<br />
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=momolly1024&theme=radical)](https://git.io/streak-stats) 
-<br /> -->
-</div>
-
-
-
 
  
 <div > 
