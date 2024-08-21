@@ -34,12 +34,12 @@
  <h3 >📝 Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [如何在免費雲端部署 Python Flask 應用 ── 範例：將 Line bot 放上 Render！抽塔羅牌機器人！](https://molly1024.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%85%8D%E8%B2%BB%E9%9B%B2%E7%AB%AF%E9%83%A8%E7%BD%B2-python-flask-%E6%87%89%E7%94%A8-%E7%AF%84%E4%BE%8B-%E5%B0%87-line-bot-%E6%94%BE%E4%B8%8A-render-%E6%8A%BD%E5%A1%94%E7%BE%85%E7%89%8C%E6%A9%9F%E5%99%A8%E4%BA%BA-fa653891b656?source=rss-a56684c76423------2)
 - [雪山主東三天兩夜全攻略 | 第一次百岳就上雪山! 女生爬山特別需要注意的地方?](https://molly1024.medium.com/%E9%9B%AA%E5%B1%B1%E4%B8%BB%E6%9D%B1%E4%B8%89%E5%A4%A9%E5%85%A9%E5%A4%9C%E5%85%A8%E6%94%BB%E7%95%A5-%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%99%BE%E5%B2%B3%E5%B0%B1%E4%B8%8A%E9%9B%AA%E5%B1%B1-%E5%A5%B3%E7%94%9F%E7%88%AC%E5%B1%B1%E7%89%B9%E5%88%A5%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%9C%B0%E6%96%B9-c85fcd9b8ed5?source=rss-a56684c76423------2)
 - [介紹 React 中最重要的概念之一— Functional Programming。](https://molly1024.medium.com/%E4%BB%8B%E7%B4%B9-react-%E4%B8%AD%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B9%8B%E4%B8%80-functional-programming-f91561a85b87?source=rss-a56684c76423------2)
 - [Javascript｜閉包 Closure 的介紹及應用。閉包跟 FP 的關係是什麼？](https://molly1024.medium.com/javascript-%E9%96%89%E5%8C%85-closure-%E7%9A%84%E4%BB%8B%E7%B4%B9%E5%8F%8A%E6%87%89%E7%94%A8-%E9%96%89%E5%8C%85%E8%B7%9F-fp-%E7%9A%84%E9%97%9C%E4%BF%82%E6%98%AF%E4%BB%80%E9%BA%BC-d9f598c432b7?source=rss-a56684c76423------2)
 - [使用 Fast API + Render 架設免費 Web API｜官網沒教的事：Start commad 設定、API 範例程式碼、Web API 佈署教學](https://molly1024.medium.com/%E4%BD%BF%E7%94%A8-fast-api-render-%E6%9E%B6%E8%A8%AD%E5%85%8D%E8%B2%BB-web-api-%E5%AE%98%E7%B6%B2%E6%B2%92%E6%95%99%E7%9A%84%E4%BA%8B-start-commad-%E8%A8%AD%E5%AE%9A-api-%E7%AF%84%E4%BE%8B%E7%A8%8B%E5%BC%8F%E7%A2%BC-web-api-%E4%BD%88%E7%BD%B2%E6%95%99%E5%AD%B8-6da2a5a6a74e?source=rss-a56684c76423------2)
 - [Giphy API 教學｜迷因愛好者的 API 首選。](https://molly1024.medium.com/giphy-api-%E6%95%99%E5%AD%B8-%E8%BF%B7%E5%9B%A0%E6%84%9B%E5%A5%BD%E8%80%85%E7%9A%84-api-%E9%A6%96%E9%81%B8-17a7b20bcd17?source=rss-a56684c76423------2)
-- [LineBot | 寫了一個酷東東！ 迷因圖片搜尋機器人 Meme Search LineBot](https://molly1024.medium.com/linebot-%E5%AF%AB%E4%BA%86%E4%B8%80%E5%80%8B%E9%85%B7%E6%9D%B1%E6%9D%B1-%E8%BF%B7%E5%9B%A0%E5%9C%96%E7%89%87%E6%90%9C%E5%B0%8B%E6%A9%9F%E5%99%A8%E4%BA%BA-meme-search-linebot-bff9a79f97?source=rss-a56684c76423------2)
 <!-- BLOG-POST-LIST:END -->
 
 
