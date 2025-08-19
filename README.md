@@ -109,10 +109,7 @@
  
 
  
-<div > 
-  <h4>Visitor count</h4>
-  <img src="https://profile-counter.glitch.me/momolly1024/count.svg" />
-</div>
+
 
 <br>
 
