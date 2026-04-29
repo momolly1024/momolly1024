@@ -31,7 +31,7 @@
 
 
 <div> 
- <h3 >📝 Latest Medium Posts</h3>
+ <h3>Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [The Ultimate React 19 + Vite + Tailwind CSS v4 + ShadCN UI + React router v7 Starter Template！](https://molly1024.medium.com/the-ultimate-react-19-vite-tailwind-css-v4-shadcn-ui-react-router-v7-starter-template-22227ca6077e?source=rss-a56684c76423------2)
@@ -42,69 +42,51 @@
 - [雪山主東三天兩夜全攻略 | 第一次百岳就上雪山! 女生爬山特別需要注意的地方?](https://molly1024.medium.com/%E9%9B%AA%E5%B1%B1%E4%B8%BB%E6%9D%B1%E4%B8%89%E5%A4%A9%E5%85%A9%E5%A4%9C%E5%85%A8%E6%94%BB%E7%95%A5-%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%99%BE%E5%B2%B3%E5%B0%B1%E4%B8%8A%E9%9B%AA%E5%B1%B1-%E5%A5%B3%E7%94%9F%E7%88%AC%E5%B1%B1%E7%89%B9%E5%88%A5%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%9C%B0%E6%96%B9-c85fcd9b8ed5?source=rss-a56684c76423------2)
 <!-- BLOG-POST-LIST:END -->
 
-
- 
-
 </div>
-<br>
+
 <div >
 
-<h3 >🔧 Languages:</h3>
-<p > 
-    <a href="https://vuejs.org/" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40"/> </a> 
-    
-   <a href="https://reactjs.org/" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
-       
-   <a href="https://reactjs.org/" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21~bgwhite.svg" alt="tailwind" width="80" height="40"/> </a> 
-   
-   <a href="https://getbootstrap.com" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-   
-   <a href="https://www.w3schools.com/css/" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-   <a href="https://www.mongodb.com/" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-   <a href="https://nodejs.org" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-   <a href="https://sass-lang.com" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-   <a href="https://vuetifyjs.com/en/" target="_blank"> 
-   <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
-   <a href="https://expressjs.com" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
-      alt="express" width="40" height="40"/> </a> 
-   <a href="https://www.python.org" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>    
-</p>
-<h3 >🧰 Tools:</h3>
-<p > 
-   <a href="https://code.visualstudio.com/" target="_blank"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a>
-   <a href="https://git-scm.com/" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">   
-   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-   <a href="https://www.photoshop.com/en" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-   
-   <a href="https://postman.com" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-   <a href="https://jupyter.org/" target="_blank"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/> </a>
-   <a href="https://heroku.com" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"  alt="heroku" width="40" height="40"/> </a> 
-   <a href="https://colab.research.google.com/" target="_blank"> 
-   <img src="img/colab.svg" alt="colab" width="40" height="40"/> </a>
-</p>
-<br>
-<h4>Random Dad style programming joke...</h4>
+<h3>Languages</h3>
+<table>
+  <tr>
+    <td><a href="https://vuejs.org/"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"></a></td>
+    <td><a href="https://reactjs.org/"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40"></a></td>
+    <td><a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21~bgwhite.svg" width="80"></a></td>
+    <td><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"></a></td>
+    <td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"></a></td>
+    <td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"></a></td>
+    <td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"></a></td>
+    <td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"></a></td>
+    <td><a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"></a></td>
+    <td><a href="https://vuetifyjs.com/"><img src="https://bestofjs.org/logos/vuetify.svg" width="40"></a></td>
+    <td><a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"></a></td>
+    <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"></a></td>
+  </tr>
+</table>
+
+<h3>🧰 Tools:</h3>
+<table>
+  <tr>
+        <td><a href="https://www.anthropic.com/claude"><img src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/main/assets/anthropic-claude.svg" width="40"></a></td>
+    <td><a href="https://gemini.google.com/"><img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/gemini.svg" width="40"></a></td>
+      <td><a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40"></a></td>
+    <td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="80"></a></td>
+    <td><a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"></a></td>
+    <td><a href="https://www.photoshop.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"></a></td>
+    <td><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"></a></td>
+    <td><a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"></a></td>
+    <td><a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"></a></td>
+    <td><a href="https://vercel.com"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" width="80"></a></td>
+    <td><a href="https://giphy.com"><img src="https://www.vectorlogo.zone/logos/giphy/giphy-ar21.svg" width="80"></a></td>
+</tr>
+</table>
+
+
+
+
+
+<h3>Random Dad style programming joke...</h3>
 <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
 <br>
 <br>
