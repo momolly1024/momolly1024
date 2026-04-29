@@ -65,7 +65,7 @@
   </tr>
 </table>
 
-<h3>🧰 Tools:</h3>
+<h3>Tools</h3>
 <table>
   <tr>
         <td><a href="https://www.anthropic.com/claude"><img src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/main/assets/anthropic-claude.svg" width="40"></a></td>
